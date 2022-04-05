@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\Hilos en consola\\Consola\\Consola.csproj": {}
+    "C:\\Users\\user\\Source\\Repos\\practica-de-hilos-FedericoVictorianoSierra\\Hilos en consola\\Consola\\Consola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\Hilos en consola\\Consola\\Consola.csproj": {
+    "C:\\Users\\user\\Source\\Repos\\practica-de-hilos-FedericoVictorianoSierra\\Hilos en consola\\Consola\\Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Hilos en consola\\Consola\\Consola.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\practica-de-hilos-FedericoVictorianoSierra\\Hilos en consola\\Consola\\Consola.csproj",
         "projectName": "Consola",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Hilos en consola\\Consola\\Consola.csproj",
+        "projectPath": "C:\\Users\\user\\Source\\Repos\\practica-de-hilos-FedericoVictorianoSierra\\Hilos en consola\\Consola\\Consola.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Hilos en consola\\Consola\\obj\\",
+        "outputPath": "C:\\Users\\user\\Source\\Repos\\practica-de-hilos-FedericoVictorianoSierra\\Hilos en consola\\Consola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
